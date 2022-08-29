@@ -1,2 +1,2 @@
-# you-are-an-idiot-hahahaha
+# you are an idiot. HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAAAAA
 JS fork bomb
